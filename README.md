@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## An India-specific compartmental model for Covid19 
+# Projections and intervention strategies by incorporating geographical, infrastructural and response heterogeneity
 
-You can use the [editor on GitHub](https://github.com/vinjanampathy/Heterogenous_COVID19_India_Model/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is a repository for the code and some results that are available in our [paper posted on the arXiv](https://arxiv.org/abs/0906.1259). We welcome the _use and modification_ of the code presented here and any comments from the reader.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,8 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
