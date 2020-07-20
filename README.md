@@ -1,5 +1,5 @@
-## An India-specific compartmental model for Covid19 
-# Projections and intervention strategies by incorporating geographical, infrastructural and response heterogeneity
+# An India-specific compartmental model for Covid19 
+## Projections and intervention strategies by incorporating geographical, infrastructural and response heterogeneity
 
 This website is a repository for the code and some results that are available in our [paper posted on the arXiv](https://arxiv.org/abs/0906.1259). We welcome the _use and modification_ of the code presented here and any comments from the reader.
 
