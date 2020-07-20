@@ -6,6 +6,12 @@ This website is a repository for the code and some results that **will soon be**
 
 
 ### Model
+![model](/Images/Slide1.jpeg)
+![](/Images/Slide2.jpeg)
+
+### Results
+![](/Images/Slide3.jpeg)
+![](/Images/Slide4.jpeg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
