@@ -2,11 +2,10 @@
 
 ### Projections and intervention strategies by incorporating geographical, infrastructural and response heterogeneity
 
-This website is a repository for the code and some results that are available in our [paper posted on the arXiv](https://arxiv.org/abs/0906.1259). We welcome the _use and modification_ of the code presented here and any comments from the reader.
+This website is a repository for the code and some results that **will soon be** available in our [manuscript](https://arxiv.org/abs/0906.1259) posted on the arXiv. We welcome the _use and modification_ of the code presented here and any comments from the reader.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Model
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
