@@ -15,22 +15,25 @@ The main model is detailed in the manuscript. It is a age-stratified compartment
 
 ### Results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The results presented in this manuscript are not (yet) peer reviewed and we urge the requisite caution. We investigate three intervention strategies, corresponding to varying levels of testing and contact. Representative results are presented here.
+![res1](/Images/Slide3.jpeg)
 
-```markdown
-Syntax highlighted code block
+![res2](/Images/Slide4.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+### Features of our Model
+- Age-stratified compartmental model.
+- District level simulation.
+- Health indices of states are incorportated.
+- Transport of individuals are incorporated.
 
-- Bulleted
-- List
+### Limitations
+```
+We note the following limitations of our model
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Compartmental models assume well mixing.
+- Age stratified models were consolidated into three catagories: young persons, working age persons and older persons. 
+- Health indices derived from Niti Aayog data are assumed to represent overall performance of the states.
+- Transport is derived from data derived before Covid-19 crisis. 
+- The Kalman filter is discritized and assumed to have additive noise.
+- Testing rates are assumed to be numbers as opposed to time series.
 ```
