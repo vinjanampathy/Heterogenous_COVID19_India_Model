@@ -26,7 +26,7 @@ The results presented in this manuscript are not (yet) peer reviewed and we urge
 - Health indices of states are incorportated.
 - Transport of individuals are incorporated.
 
-### Limitations
+### Limitations of our Model
 ```
 We note the following limitations of our model
 
