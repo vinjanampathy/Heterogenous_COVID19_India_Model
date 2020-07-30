@@ -2,7 +2,7 @@
 
 ### Projections and intervention strategies by incorporating geographical, infrastructural and response heterogeneity
 
-This website is a repository for the code and some results that are available in our [manuscript](https://arxiv.org/abs/2007.14392) posted to the arXiv. The code with the state data is in the [main branch]{https://github.com/vinjanampathy/X-SEAIPR} and the district data and simulations are available [here](https://github.com/vinjanampathy/X-SEAIPR/tree/District1). We welcome the _use and modification_ of the code presented here and any comments from the reader.
+This website is a repository for the code and some results that are available in our [manuscript](https://arxiv.org/abs/2007.14392) posted to the arXiv. The code with the state data is in the [main branch](https://github.com/vinjanampathy/X-SEAIPR) and the district data and simulations are available [here](https://github.com/vinjanampathy/X-SEAIPR/tree/District1). We welcome the _use and modification_ of the code presented here and any comments from the reader.
 
 
 ### Model
