@@ -16,9 +16,8 @@ The main model is detailed in the manuscript. It is a age-stratified compartment
 ### Results
 
 The results presented in this manuscript are not (yet) peer reviewed and we urge the requisite caution. We investigate three intervention strategies, corresponding to varying levels of testing and contact. Representative results are presented here.
-![res1](/Images/Slide3.jpeg)
 
-![res2](/Images/Slide4.jpeg)
+![District level predictions of the projected number of cases at the end of May. The total number of infections are reported as the sum of the Presymptomatic (A), Symptomatic Infected (I), the corresponding lockdown compartments (XA and XI), and the diagnosed population (P). We do not show the true Asymptomatic population (E and XE) since they never display symptoms and hence would not be a burden on the healthcare infrastructure.](/Images/india_map.pdf)
 
 ### Features of our Model
 - Age-stratified compartmental model.
